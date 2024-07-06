@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+This project is built under the hackathon Myntra Hackerramp, where I have separately created backend and frontend for all the new changes I have implemented.
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
